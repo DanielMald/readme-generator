@@ -1,25 +1,25 @@
-# fortnite
+# Readme Generator
 
 ## Discription
 
-game
+A tool meant to help create a readme file
 
 
 ## Installation Instructions
 
-epic games
+Run the program through the terminal
 
 ## Usage Information
 
-run
+type "node index.js" in the terminal to start the readme generator
 
 ## Contribution Guidelines
 
-me
+Daniel Maldonado
 
 ## Test Instructions
 
-run
+Run the program and answer the questions
 
 ## Badges
 
@@ -27,8 +27,8 @@ run
 
 ## GitHub Username
 
-wavvy
+DanielMald
 
 ## GitHub Email
 
-wavvy
+dman2871@gmail.com
